@@ -6,14 +6,14 @@
         id        = "com.cenet.ListasV"
         version   = "1.0.0">
 
-    <name>ListasV</name>
+    <name>SERVICIODATOS</name>
 
     <description>
-        Practica 2 www.cenet.mx
+        Practica 2 KRAMORUAT
     </description>
 
     <author href="http://www.nuvemtecnologia.mx" email="soporte@nuvemtecnologia.mx">
-        Christian Murillo
+       MARCO ANTONIO HERNANDEZ JACINTO
     </author>
 
     <!--
